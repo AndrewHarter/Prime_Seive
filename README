@@ -1,0 +1,12 @@
+
+Written in C++
+
+This program works by one computer being the sever and another being the client. When conncected the computers will take turns finding
+the next prime number then mark it prime and send it to the computer. This is done untill all prime numbers are found in the range set
+as UPPER_BOUND. 
+
+To run server run with flag "-r"
+To run as client run with no flags
+
+You can change the upper limit by changing the constant UPPER_BOUND
+		
